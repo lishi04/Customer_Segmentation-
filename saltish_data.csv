@@ -1,0 +1,401 @@
+Customer ID,Customer Name,Contact Number,Order,Total Bill,Payment Method,Address
+1,Ali ,92 306 3915515,Matka Biryani,1100,cash on delivery ,G14/4 street 14
+2,uswa fatima ,92 347 5962119,"mutton keema,naan",1800,jazz cash,G11/2 street 72
+3,zuhaib khan,92 320 3805705,"chicken tikka boti,roti ",1300,cash on delivery ,nust gate 2
+4,kashif ,92 334 8666540,"saltish special kehri,naan, zinger burger,apsecial steak ",3500,Easy paisa,G13/4 street 149
+5,minahil azeem,92 324 7100387,"adana kabab,roghni naan",1500,cash on delivery ,G12 Nust metro station
+6,M.talha ,92 303 4103944,candle light dinner reservation (2 persons),10000,bank payment ,saltish restaurant
+7,mr.Ali ,92 313 8588108,opening reservation,5000,bank payment ,saltish restaurant
+8,gohar ,92 300 9550810,opening reservation,5000,bank payment ,saltish restaurant
+9,rizwan,92 300 8551312,opening reservation,5000,jazz cash,saltish restaurant
+10,shahbaz nawaz,92 300 6272866,opening reservation,5000,bank payment ,saltish restaurant
+11,rizwan cheema ,92 304 5330565,opening reservation,5000,easy paisa ,saltish restaurant
+12,shahbaz sami,92 305 1579001,opening reservation,5000,bank payment ,saltish restaurant
+13,zafeer ,92 341 7770555 ,opening reservation,5000,bank payment ,saltish restaurant
+14,mashwani,92 340 9424861,burger deal 1,790,jazz cash,Nust concordia 2(C2)
+15,dania,92 3245305942,"pene pasta ,russian salad,cheese ball",4000,easy paisa,land mark 3 near nust
+16,hanas ,92 3005355866,birthday reservation,8000,bank payement,saltish restaurant
+17,tahir,92 3139470722,opening resevation,5000,jazz cash,saltish restaurant
+18,asad,93 3087029873,"lahori karahi ,garlic naan",2000,cash on delivery ,g 13/4 street 152
+19,hassam ,92 3222668989,"makhni karahi,cheese naan,mughlai murgh handi",4500,cash on delivery ,attar hostel h 12
+20,malik hammad,92 3315332893,nikkah reservation,100000,bank payement,saltish restaurant
+21,muhammad yousaf ,92 3035037288,"mix vegetables , bbq wings , saltish special b19 soup ",5000,bank payment ,saltish restaurant
+22,misha ,92 3492822208,chilli onion prawns ,3300,cash on delivery ,G 12 alvi auctioneers
+23,shaheer anwar ,92 3338500649,burge deal 2 ,1350,cash on delivery ,Nust concordia 2(C2)
+24,feroz ,92 3431273823,"afghani pulao , bbq wings , cold drinks ",5500,cash on delivery ,h 11/2 air university
+25,sham riaz ,92 3405117856," saltish special karahi , salad , riata ",4200,cash on delivery ,G 13/ 1 street 82
+26,nabeel arshad abbasi ,92 3245006023,"fish chilli dry ,  hot and sour soup ",5000,bank payment ,G 13 / 3 street 10 
+27,zohaib ,92 3009670001,special stakes ,2150,easy paisa,G 14 / 4 street 29 
+28,amir ,92 3464252507, chinese combo 1,1150,jazz cash ,Nust concordia 2(C2)
+29,zain ,92 3004053068,"russian salad , cold drinks ",980,easy paisa,H 13 street 2 
+30,muahmmad bashir ,92 3055994526,"alfaredo pasta , soft drink ",1980,cash on delivery ,G 12 
+31,rizwan malik ,92 3332085418, saltish special beef ,2995,card payment , h 13 kahayaban e faiz 
+32,shahneel haider ,92 3275875802,"adana kabab , rogni naan ",1350,easypaisa ,zubair shah rod ali block street 9 H 13 
+33,shah nawaz ,92 3008565738,"mint margritta , butter chicken , plain naan , chicken baryani ",3250,cash on delivery ,land mark 3 near nust
+34,hamna fazal ,92 3190535816,penne pasta ,1250,jazz cash ,zahra heights 5th floor 504 apartment 
+35,syed zia ,92 3069294603,platter deal 2 ,699,cash on delivery ,H 13 street 5
+36,zainab ,92 3329301372,half makhni karahi ,1395,cash on delivery ,hamza block H 13 
+37,alisha ,92 3475430898,afghani pulao,1095,easy paisa , h 13 kahayaban e faiz 
+38,saima iqbal ,92 3005577178,afghani pulao,1095,cash on delivery ,G 13/4 street 132
+39,hassan ,92 3321733060,"chicken baryani , salad, riata ",800,cash on delivery ,Nust concordia 2(C2)
+40,hammad azeem ,92 3237073240,dilbar platter ,2390,easy paisa,h 11 street 41 
+41,hassan ,92 307 6758151,"saltish special chowmain,club sandwich",3500,bank payment ,land mark 3 near nust
+42,muneeb ,92 3136242778,saltish special soup  B19,2495,easy paisa ,attar hostel h 12
+43,laiba ,92 3051755543,burger deal 1,790,jazz cash ,khadija hostel H 13
+44,maryam,92 3029629485,mix grill,4995,easy paisa ,nust shaking rink
+45,shoihab khan,92 3349255535,"saltish special handi,afghano pulao",3550,cash on delivery ,flat 4 street 1 H 13/1
+46,nadeem,92 3455412168,half mutton karahi,2200,cash on delivery ,js motors
+47,faisal,92 3009837997,"saltish special chowmin,hot garlic fish",5045,easy paisa ,h 13 street 20
+48,mubashir khan,92 3406129866,"chicken white handi, naan ,drinks ",2605,cash on delivery ,h 13 f block street 5 paris city 
+49,maaz khan ,92 3483957787,dilbar platter ,2390,cash on delivery ,land mark 3 near nust
+50,fiza,92 3155396354,burger deal 1,790,easy paisa ,ayesha hostel H 13
+51,mahnoor ,92 3442719217,"Chicken Tikka Boti (1), French Fries (1), Mint Margarita (1)",1840,RAAST Payment,NB heights h13
+52,shaheer khan ,92 3352333522,"Mutton Karahi Half (1), Mix Vegetable (1), Garlic Naan (2)",3085,jazz cash,Abdullah Garden amin block h 13
+53,ammar hussain ,92 3345906958,"Dynamite Chicken (1), Egg Fried Rice (2)",4895,bank payment,nust concordia 1(c1)
+54,adnan tariq ,92 3377774099,"grilled fish rahu full , chickn handi , chicken fried rice , plain roti ",5500,bank payment,Nust exam hall  gate 4 
+55,asif ali  , 92 3454595466,hot and sour soup,1895,easy paisa ,umer block h13 
+56,maryum ,92 3496638089,"Zinger Burger (1), Cream of Mushroom Soup (1)",1790,cash on delivery,abu bakr plaza h13
+57,eman tariq ,92 3225448665,"BBQ Wings (2), Garlic Naan (2), Soft Drink Tin (1)",3350,RAAST Payment,g 11/1 canadian guest house
+58,waneeza ,92 3109662429,"chicken achari boti , plain roti , zeera raita ",1440,easy paisa,Nust basket ball court
+59,hamid khan,92 3169951737,"Chicken Achari Boti (1), Garlic Naan (1)",1190,cash on delivery,landmark 3  h 13
+60,manahil malik ,92 3249164217,"Chicken Malai Boti (2), Soft Drink Tin (1), Mint Margarita (1)",3080,bank payment ,sweet home guest house g 14
+61,hassan rizvi ,92 3348162420,"Chicken White Karahi Half (1), Plain Naan (2)",1195,jazz cash,g 13/1 street 85
+62,abu salah ahmad ,92 3346894203,"Adana Kabab Beef (1), Egg Fried Rice (1), Mint Margarita (1)",2840,RAAST Payment,nust gate 10
+63,muzakkah husnain ,92 3188306619,"Chicken Reshmi Kabab (1), Mint Margarita (1)",1590,RAAST Payment,shamas colony
+64,fahad ,92 3155555106,"Saltish Special Biryani (1), Soft Drink Tin (1)",1765,easy paisa,g 13/4 street 128
+65,saba shery ,92 3317800014,"Chicken Shinwari Half (1), Roghni Naan (2)",1290,cash on delivery ,g 13/2  street 36
+66,gateway guides ,92 3330788787,"Chicken Tikka Leg (2), Plain Naan (2)",1300,cash on delivery,flat no# 403  sappphire heights 
+67,bilal afzal ,92 3345124563,"chicken tikka pc , grilled fish rahu ( half )",1525,jazz cash ,house 72 street 35 G 13/ 2
+68,yasir ali,92 324 5252992 ,"Mutton Handi (1), Kalwanji Naan (2), Soft Drink Tin (1)",5600,bank payment,jw motors h 13
+69,ali jaan,92 3125109321,"Chicken Corn Soup (2), Steam Rice (2)",1790,Easy paisa,zara heghts h13
+70,kalsoom farooq ,92 3165330289,"Hot & Sour Soup (1), Chicken Fried Rice (1), Mint Margarita (1)",2390,bank payment ,dream land girls hostel h 13
+71,ranra ,92 3260565545,half chicken vegetable soup ,1035,RAAST Payment,landmark 3  flat 604 
+72,iqra nasir ,92 3090099024,BBQ Platter Mix Grill (1),4995,bank payment,fatima hostel
+73,bisma abid ,92 3304395666,"chicken haryali boti , 2 plain roti ",1455,easy pasia,Nust university  gate 4
+74,asim ,92 3269614324,"Chicken Hari Mirch Handi (1), Roghni Naan (2)",1565,jazz cash ,Nust university gate 2
+75,baneeen ,92 3331545191,"chicken shinwari (half) , 4 naan ",1515,jazz cash,fatima hostel
+76,maryum baloch ,92 3239174169,"Chicken Malai Boti (1), Soft Drink Tin (1), Mint Margarita (1)",1760,easy paisa, h 13 aero girl hostel
+77,abbas raza ,92 3067855557," hot and sour soup ,hot garlic fish(1) ,special steak (1)",7095,bank payment ,flat no # 106 sapphire heigts 2 h 13 
+78,usman ,92 3321966402,"chicken  korma , naan, kheer, salad, beef,  raita , ",6600,RAAST Payment,the empire boys hostel 2
+79,ahmad ,92 3219632567,"Chicken Malai Boti (1), Soft Drink Tin (1), Mint Margarita (1)",1760,easy paisa ,g 13/2 62
+80,aqib ,92 3007331676,"Lahore Fried Fish (1), Mint Margarita (1)",2095,jazz cash ,red bury guest house 
+81,ahsan ,92 3085496874,platter deal 2 ,699,easy paisa ,nust concordia 2(c2)
+82,qureshi ,92 3245050145,"Beef Afghani Seekh (1), Steam Rice (1), Soft Drink Tin (1)",2315,bank payment ,g 13/4  street 158
+83,muhammad ,92 3155352996,"Chicken Achari Handi (1), Plain Naan (1)",1745,jazz cash ,h13 street 15-A
+84,jawad ,92 3003159915,"White Karahi Half (1), Plain Naan (2), Soft Drink Tin (1)",1375,jazz cash , G 11/4 street 41
+85,ifthikar ,92 3215384387,"Chicken Mughlai Handi (1), Roghni Naan (2)",2295,bank payment ,youth boys hostel h 13
+86,rohail ,92 3471388954,"Mutton Kunna (1), Garlic Naan (1)",1145,easy paisa ,h13 street 22
+87,qamar ,92 3355568324,chinese combo 1 ,999,easy paisa,landmark 3
+88,abdul wasay ,92 3170129711,platter deal 2 ,699,cash on delivery ,Nust exam hall  gate 4 
+89,hafeez ,92 3348406407,Chicken Galafi Kabab (2),2590,bank payment , golra mor  
+90,saqib ,92 3318889833,"Chicken Manchurian (1), Egg Fried Rice (1), Soft Drink Tin (1)",2565,RAAST Payment,G 13/2 street 52
+91,ahsan ,92 3310334847,mehndhi event ,70000,easy paisa,saltish restaurant
+92,waqas ,92 3186007075,"Hot Garlic Chicken (1), Vegetable Fried Rice (1)",2395,cash on delivery ,G11/1 street 10
+93,abreel ,92 3038548441 ,"Mongolian Chicken (1), Steam Rice (1)",2395,cash on delivery,g 13/3 street 6
+94,areeb ,92 3185222543,"Oyster Chicken (1), Egg Fried Rice (1), Mint Margarita (1)",2690,jazz cash ,G 14/4 street 29
+95,mehar,92 3335912824,"Saltish Special Chowmein (1), Nuggets Deal (1)",3800,bank payment,nust concordia 2(c2)
+96,laiba shahzad ,92 3217613979,platter deal 2 ,699,Easy paisa, h 12 amna hostel 
+97,arshaman ,92 3350509975,"Chicken Chowmein (1), Nuggets Deal (1), Soft Drink Tin (1)",3270,bank payment ,the empire boys hostel 2
+98,khattak ,92 3126282991,"Finger Fish (1), French Fries (1), Soft Drink Tin (1)",2715,RAAST Payment,land mark 3 near nust
+99,shah jeee,92 3306768535,"Zinger Burger (2), Soft Drink Tin (2)",2330,bank payment,gul heights 
+100,haris ,92 3135161556,chinese combo 1 ,1150,easy pasia,jk boys hostel h 13
+101,ali alvi,92 3185110265,platter deal 1,1999,jazz cash ,awan boys hostel h 13
+102,shugufta,92 3197055698,Biryani,695,jazz cash,bisa's girls hostel g13 
+103,Rabi,92 3350920184,"Club Sandwich (1), Mint Margarita (1)",1140,easy paisa,si girls hostels h 13
+104,Habib jan,92 3082066837,"Rocket Steak (1), Mint Margarita (1)",2745,bank payment ,aasaish  boys hostel h 13
+105,saim  ,92 3708049046,"Moroccan Steak (1), Soft Drink Tin (1)",2565,RAAST Payment,golden era boys hostel h 13
+106,Raja Irfan,92 3138885382,"American Chowmein (1), Garlic Naan (1)",2380,easy paisa ,nust  gate 1
+107,Muhammad Ahmed,92 3320599002,"Cheese Balls (6 pc), Soft Drink Tin (1)",2065,jazz cash , g13 /1 street 86
+108,Khan Ahmed,92 3027273003,Chinese combo1,999,easy paisa ,G14/4 street 39
+109,Umair Asad ,92 3057372102,"BBQ Platter Mix Grill (2), Chicken Fried Rice (1), Chicken White Karahi Half (1), Chicken Hari Mirch Handi (1)",2869,bank payment ,illyasi boys hostel g 13
+110,Taimoor Hassan,92 3089460508,"BBQ Grilled Batair (2), Chicken Capital Curry (2), Chicken Tikka Boti (2)",2542,jazz cash ,saani rooms g 13/3
+111,aqib ,92 3400589547,"Mongolian Chicken (1), Mutton Handi (1), Chicken Manchurian (2)",3134,jazz cash ,G 13/2 street 77
+112,Abbasi,92 347 2802797,"mandi rice,drink ",595,bank payment ,g 11/2 street 72
+113,Zain,92 3355466659,"Chicken Capital Curry (2), Chicken Achari Boti (2)",5151,easy paisa ,abbasi hoel h 13
+114,Jamal ,92 3085638389,"Chicken Achari Boti (1), Oyster Chicken (1)",3597,easy paisa,h 13 street 2
+115,Badeeh u Jammal ,92 3325358041,"Chicken White Karahi Half (1), Lahore Fried Fish (1), Adana Kabab Beef (2), Chicken Hari Mirchi (1)",2159,cash on delivery ,Nust basket ball court
+116,Muhammad anwar,92 3312935302,"Chicken Manchurian (2), Finger Fish (1), Club Sandwich (2)",4702,bank payment ,nust coffee lounge 
+117,ilyas khan,92 3479483928,burger deal 1,750,jazz cash ,G13/2 street 60
+118,Haroon,92 3172903938,"French Fries (2), Lahore Fried Fish (1)",3766,RAAST Payment,Nust exam hall  gate 4 
+119,Afshan Sheikh,92 3105953701,"American Chowmein (2), Nuggets Deal (2), Mutton Kunna (2)",4622,easy paisa,fatima hostel g13
+120,Dawood,92 3488902197,white chicken handi,2295,easy paisa,mehar appartments block A flat 108
+121,Abdul Mohiz,92 3309514130,"Chicken Capital Curry (2), Rocket Steak (1), Lahore Fried Fish (1)",1839,jazz cash ,h13 street 9
+122,Abdullah ,92 3149509593,"Saltish Special Biryani (2), Lahore Fried Fish (1), Hot & Sour Soup (2), Oyster Chicken (2)",2119,jazz cash ,h 13 street 1-A
+123,Shakeel,92 3128199084,"Beef Afghani Seekh (2), Chicken Hyderabadi (2), Nuggets Deal (1)",5118,RAAST Payment,rayyan boys hostel h 13
+124, arshad abbasi               ,92 3245006023,"Chicken Fried Rice (1), Nuggets Deal (2), BBQ Grilled Batair (2)",4020,bank payment ,Nust exam hall  gate 4 
+125,Nabeel,92 3358094998,"Mutton Karahi Half (2), Steam Rice (2), Saltish Special Chowmein (1)",3460,bank payment , h 13 street 17
+126,Abbasi,92 3455950087,platter deal 2 ,699,cash on delivery ,ft  residencia G 13/1
+127,Rehan Ghafoor,92 3126081616,"Full chicken lahori karahi, 10pc Gola Kabab,4 Roghni naan , 2 Plain Naan ,1 cola next ",3935,Easy paisa,Near Savvy school h13 senior campus
+128,waqas ,92 3190252925,"Oyster Chicken (1), Chicken White Karahi Half (2), Rocket Steak (1), Moroccan Steak (2)",4357,bank payment,G 11/1 street 6
+129,Meerab,92 3333200321,"Chicken Manchurian (2), Kalwanji Naan (1)",3116,RAAST Payment,nust gate 2
+130,Zimal,92 3230197609,"Mint Margarita (1), Saltish Special Biryani (1)",5223,RAAST Payment,abdullah Garden
+131,Imran Ali,92 3025201180,"Chicken Hyderabadi (1), Zinger Burger (2), Chicken Mughlai Handi (1), Chicken Corn Soup (2)",3265,bank payment,awan town
+132,Ifra Sehar,92 331770769,"1 mix tea,3 gulab jamun",340,jazz cash ,Kashish Girls Hostel  H13
+133,Hammad ali,92 3156669024,Platter Deal 1,1999,easy paisa ,zaviya guest house G 13
+134,Muhammad Babar,92 3335047521,platter deal 2 ,699,jazz cash ,G 14/4 street 30
+135,Yawar Ali,92 3554428541,burger deal 1,830,cash on delivery ,Shandoor  Boys Hostel G 13
+136,Aliyar,92 3096009043,Chinese combo 2,1150,easypaisa ,landmark 3  flat 604 
+137,Faisal ALI ,92 3328531742,"Soft Drink Tin (2), Chicken Madrasi Handi (2), Oyster Chicken (2), Chicken Reshmi Kabab (2)",2389,cash on delivery ,munawar boys hostel g 13
+138,Hassan Anwar,92 3426272909,"Chicken Galafi Kabab (1), Chicken Tikka Leg (2), Chicken Capital Curry (2), Chicken Shinwari Half (2)",3746,cash on delivery ,nust concordia 3 (c3)
+139,Waniya,92 3215225553,"Chicken Hari Mirch Handi (2), Chicken Chowmein (1), Chicken White Karahi Half (1), Beef Afghani Seekh (1)",4785,jazz cash ,islamic girls hostel h 13
+140,Azhar Hussain,92 3161703720,"4 Hot and sour soup,3 chicken masala rice, 4 chicken achari handi,3 makhni daal , 4 tikka boti, 4 gola kabab , naan basket",2952,bank payment ,Nust exam hall  gate 4 
+141,Munawwar Husain,92 3026095557,"Hot Garlic Chicken (1), Chicken Mughlai Handi (2), Mutton Handi (2)",2060,easy paisa,g14/4 street 28
+142,Jamshaid,92 3117260923,burger deal 2,1350,cash on delivery,nust sports complex
+143,Ibrahim,92 3121623045,platter deal 1,1999,cash on delivery ,g 13/3 street 15
+144,Abdul Ahad,92 3005055259,Burger Deal 1,790,cash on delivery ,h 13 street 3
+145,Akram Khan,92 339477800,"BBQ Platter Mix Grill (2), Chicken Tikka Boti (2), BBQ Wings (2)",5841,bank payment,Nust exam hall  gate 4 
+146,Noreen,92 3125021450,burger deal 2,1350,easy paisa,fatima's home girls hostel h 13
+147,Muhammad Asif,92 3477109006,"Chicken Tikka Leg (1), Finger Fish (2), Garlic Naan (1), Mutton Handi (2)",2573,jazz cash ,g11/4 street 125
+148,Kinza,92 3315018490,"Dynamite Chicken (1), French Fries (1), Chicken Chowmein (1)",5897,RAAST Payment,nust concordia 4(c4)
+149,Shahzad Ali,92 3049277916,Chicken Biryani,745,Easy paisa,Abdullah Garden
+150,Najaf ,92 3325312340,"Mutton Kunna (2), Oyster Chicken (2), Chicken Reshmi Kabab (1), Mix Vegetable (1)",5967,RAAST Payment,G12 Nust metro station
+151,Shaheer ALI Khan ,92 3139943069,platter deal 2 ,769,bank payment ,nust H 12 ghazali 2
+152,aftab khan,92 3317233289,"Egg Fried Rice (1), Chicken Malai Boti (2), Chicken Tikka Boti (2), Saltish Special Biryani (2)",5334,RAAST Payment,nust gate 2
+153,nosheen raza ,92 3104690473,"Mutton Kunna (1), Chicken Reshmi Kabab (1), Saltish Special Biryani (2), American Chowmein (2)",5531,RAAST Payment,professional hostel 13
+154,bilal afzal ,92  3203801478,chinese combo deal 1,999,cash on delivery ,qasim bad 
+155,hamid ,92 3494881619,"Zinger Burger (2), Chicken Tikka Leg (1), Chicken White Karahi Half (1), BBQ Grilled Batair (1)",5431,bank payment,ali bakhish town
+156,ayesha jamil,92 3419831307,"Chicken Mughlai Handi (1), Mutton Kunna (1), Kalwanji Naan (2), French Fries (1)",2913,jazz cash ,g 13/3 street 4
+157,abdul hadi ,92 3149782627,platter deal 2 ,699,cash ob delivery ,one click guest house g 13/1
+158,amna ,92 3199454474,"Dynamite Chicken (1), Beef Afghani Seekh (2)",1687,easy paisa ,fatima hostel g13
+159,kazim jan ,92 3151930217,chinese combo deal 1,999,jazz cash ,g 11/1 street 2
+160,meher,92 3125381224,burger deal 2,1350,jazz cash ,landmark 3
+161,naqvi,92 3111490512,"Chicken Tikka PC Leg (1), Garlic Naan (1)",645,cash on delivery ,Nust exam hall  gate 4 
+162,mohsin,92 3326577407,"Chicken Tikka Boti (1), Garlic Naan (1), Mint Margarita (1)",1485,cash on delivery ,siham apartments h 13
+163,chanda,92 3170512870,"BBQ Grilled Batair (1), Roghni Naan (1)",1690,easypaisa ,G 13/4 street 117
+164,baqar,92 3485661146,"Saltish Special Karahi Half (1), Plain Naan (2)",2805,bank payment ,the gateway islamabad g14
+165,touqeer malik,92 3333347576,"Chicken Achari Handi (1), Roghni Naan (1), Soft Drink Tin (1)",1960,easy paisa ,usman block
+166,saqlain,92 3097294114,"Chicken Madrasi Handi (1), Kalwanji Naan (2), Mint Margarita (1)",2045,jazz cash,G13 metro station 
+167,raza,92 3333062228,"Chicken Hyderabadi (1), Plain Naan (2), Mint Margarita (1)",1895,jazz cash ,nust concordia 4(c4)
+168,muhammad junaid,92 3325266102,"Chicken Hari Mirchi (1), Garlic Naan (1)",1445,RAAST Payment,G 14 / 4 street 40
+169,zaryab,92 3275751650,"Chicken Capital Curry (1), Roghni Naan (2), Soft Drink Tin (1)",2265,RAAST Payment,g13/3 street 14
+170,asif ,92 3015845143,"Chicken Hariyali Boti (2), Garlic Naan (1)",2885,bank payment , H 13 street 14
+171,arham,92 3365467995,"Chicken Tikka Boti (1), Mint Margarita (1), Soft Drink Tin (1)",1560,cash on delivery ,G 11/1 street 154
+172,samina naz,92 3028289318,"Egg Fried Rice (2), Garlic Naan (1), American Chowmein (1)",2205,RAAST Payment,diamond bliss girls hostel
+173,qasim,92 3179023859,"French Fries (2), Chicken Tikka Leg (1), Steam Rice (1), Chicken Mughlai Handi (1)",4899,bank payment ,G 13/1 red lagoon house 
+174,Arslan ,92 3334607068,"Kabili pulao,chicken korma,seekh kabab,chicken boti,naan,salad,kashmiri chae,mint margirita",6410,Bank payment,G11/1 street 13
+175,Taha,92 3105901691,"Chicken Biryani,salad raita",1100,Cash on delivery,Land Mark III near NUST
+176,Minahil Zaheer,92 3165236700,Kheer,1000,Jazz Cash,NUST Concordia 2 (C2)
+177,Maham shahbaz,92 3086262330,Zinger Burger and Fries ,800,Cash on delivery,G13/4 street 118
+178,Asim ul Salam,92 3159340074,"Fruit chaat , Pakory, Samosy",500,Jazz Cash,Zara Heights Appartment no 211
+179,Usama,92 312 6408228,"2 Chicken Biryani,salad raita",2196,Cash on delivery,G13/1 street 86
+180,Hamza,92 3509605407,"1 Thai soup, 2 Shawarma",2500,Jazz Cash,H13 sahibzada heights 
+181,Wali,92 3352284725,"1 Chicken grilled burger ,fries ",1050,Cash on delivery,G13/1 street 98
+182,Zubair khan,92 3319585508,2 person reservation,2100,Bank payment,Saltish Restaurant
+183,Vardah Pervaiz,92 3335809918,3 persons reservation,6300,Jazz Cash,Saltish Restaurant
+184,Saima Shabbir, 92 3361521863,3 persons reservation,6300,Bank payment,Saltish Restaurant
+185,Nasir Iqbal,92 3027292207,Iftar Buffet reservation( 2 person),5000,Bank payment,Saltish Restaurant
+186,Mukhtar Aziz,92 3339135797,Iftar Buffet  reservation (5 people),11000,Bank payment,Saltish Restaurant
+187,Aisha Khadim,92 3090262010 ,Iftar Buffet reservation( 4 person),8400,Jazz Cash,Saltish Restaurant
+188,Muhammad Shahzad,92 3026906417,2 persons reservation,2100,Jazz Cash,Saltish Restaurant
+189,Sarfraz Nawaz,92 3053578913,5 persons reservation,11000,Bank payment,Saltish Restaurant
+190,Iqbal hussain,92 3185783050,Matka Biryani ,996,Jazz Cash,H 13 khayaban e faiz opposite nust gate 2
+191,Kashfa Anwar,92 3371638774,Fries,500,Jazz Cash,"Kashish Girls Hostel, Zubair Shah Road, H13"
+192,Rubasha,92 3427964637,6 persons reservation,1000,Jazz Cash,Saltish Restaurant
+193,Ghulam Mustafa,92 3168313235,Platter Deal 02,784,RAAST Payment,G 11/3 street 98 
+194,Zainab Riaz,92 3335190049,Fish Tikka,1430,RAAST Payment,"Street 7,Paris City F block, H13"
+195,Eman Waqar,92 3471910819,Matka Biryani ,996,Cash on delivery,Land Mark III near NUST
+196,Ahad ,92 3473419032,"Chicken Karahi,Mandi rice,pink tea , fruit trifle,mint margarita",3000,Bank payment,U tower apartment 2
+197,Ayat fatima,92 3237427772,Half hot and sour soup with crackers,1460,Jazz Cash,Mustafa Ameer Apartments
+198,Bisma ,92 3213585808,Iftar Buffet reservation (4 people),8500,Bank payment,Saltish Restaurant
+199,Bashir ,92 3350772473,Platter Deal  02,784,Jazz Cash,Zara Heights 
+200,Rukhsana Yasmin,92 3087895856,"Makhni karahi, naan , coke ,raita ",2700,Cash on delivery,Golra mor gali 6
+201,Basit Ahmed,92 3341162086,Platter Deal 02,784,Bank payment,Nust gate 2
+202,Shahbnam,92 3345739432,Platter Deal 01,2199,Jazz Cash,Land Mark III near NUST
+202,Ahmed Khan,92 3215511615,Matka Biryani,695,Bank payment,"Street 20, G-11/1"
+203,Ayesha Siddiqui,92 3335809918,Mutton Keema,1400,Jazz Cash,"noor sky lodge, G-13"
+204,Bilal Hussain,92 3161545650,"Naan,makhni karahai",1150,Jazz Cash,"Street 12, G-11/1"
+205,Fatima Zahra,92 7431571800,Chicken Tikka Boti,1095,Jazz Cash,"Street 50, G-14/4"
+206,Hassan Raza,92 3145092400,"Roti,chicken mughlai handi",2250,Jazz Cash,"Street 8, H-13"
+207,Mariam Qureshi,92 3260650829,Saltish Special Karahi (Half),2695,Bank payment,"Street 148, G-11/4"
+208,Salman Iqbal,92 3394014363,Zinger Burger,995,Jazz Cash,"Street 40, G-14/4"
+210,Sana Malik,92 3009778868,Saltish Special Steak,2150,Cash on delivery,nust gate 2
+211,Usman Sheikh,92 3339135797,Adana Kabab Beef/Chicken (4 pcs),1295,Bank payment,"Street 6, G-11/1"
+212,Hira Aslam,92 3484447599,Roghni Naan,95,Jazz Cash,"Street 156, G-13/4"
+213,Ali Raza,92 3009294328,Candle Light Dinner Reservation,15000,Bank payment,"Street 12-b, H-13"
+214,Hassan Abbas,92 3027292207,Opening Reservation,1500,Jazz Cash,nust concordia 2(C2)
+215,Fatima Javed,92 3011282632,Penne Pasta,1250,Jazz Cash,"Street 80, G-13/1"
+216,Usman,92 3318130013,Russian Salad,695,Jazz Cash,"Street 59, G-11/2"
+217,Maria,92 3235031263,Cheese Balls (6 pcs),795,Jazz Cash,"Street 17, H-13"
+218,Zain Ali,92 3335777842,Birthday Reservation,12000,Cash on delivery,"Street 59, G-14/4"
+219,Danish,92 3355777842,Lahori Karahi (Chicken Half),995,Bank payment,"Street 98, G-11/3"
+220,Amna,92 3556543034,Garlic Naan,110,Jazz Cash,"Street 46, G-14/4"
+221,Iqra,92 3135595981,Makhni Karahi (Chicken Half),1395,Bank payment,"khayabne faiz , H-13"
+222,Imran,92 7155994485,Cheese Naan,250,Bank payment,nust exam hall gate 4
+223,Asad,92 3061289105,Mughlai Murgh Handi,2195,Bank payment,"Street 132, G-13/4"
+224,Faisal Malik,92 3335034016,Nikkah Reservation,30000,Jazz Cash,land mark 3 near nust 
+225,Saad Farooq,92 3188348315,Mix Vegetables,495,Jazz Cash,fatima hostel g 13
+226,Maham Saeed,92 3130542603,BBQ Wings (4 pcs),995,Bank payment,nust gate 10
+227,Hamza,92 3105191968,Saltish Special B19 Soup,1795,Jazz Cash,nust concordia 2(C2)
+228,Laiba Kamal,92 3215233119,Chilli Onion Prawns,3295,Jazz Cash,"Street 55, G-13/3"
+229,Omer Abbasi,92 3439473689,Afghani Pulao,1595,Jazz Cash,"Street 88, G-14/4"
+230,Noman Javed,92 3026906417,Cold Drinks (Soft Drink Tin),170,RAAST Payment,"Street 71, G-14/4"
+231,Waqas,92 3413948884,Special Steaks,2150,RAAST Payment,nust gate 1
+232,Adnan Bashir,92 3348442585,Chinese Combo 1,2295,Cash on delivery,"Street 41, G-13"
+233,Sumbal,92 3069421102,Russian Salad,695,Bank payment,"Street 12, H-13"
+234,Shehryar,92 3166890869,Alferado Pasta,1895,Jazz Cash,"Street 5, G-11"
+235,Yasir Imran,92 3056121725,Chicken Biryani,695,Bank payment,"Street 24, G-13"
+236,Shahzad,92 3335441236,Saltish Special Beef (Assumed Boti),1400,Jazz Cash,amna hostel
+237,Sohail Anwar,92 71555165642,Chicken Tikka Boti,1095,bank payment ,"Street 42, G-13"
+238,Irum Zehra,92 3335286226,Plain Naan,50,easy paisa,"Street 47, H-13"
+239,Mudassir,92 335741414,Mint Margarita,295,cash on delivery,naseerabad h 13
+240,Kamran,92 3130579954,Platter Deal 1,4995,cash on delivery ,"Street 60, G-13"
+241,Alina,92 3558433324,Platter Deal 2,2390,cash on delivery ,"Street 33, G-13"
+242,Junaid,92 3185783050,Fish Chilli Dry,3295,bank payment,"Street 44, G-11"
+243,Noman Javed,92 3371638774,Hot & Sour Soup,800,easy paisa,"Street 9, H-13"
+244,Sidra Anwar,92 3117363100,Chicken White Handi (Half),2295,jazz cash ,"Street 40, H-13"
+245,Zeeshan,92 3471910819,Chicken Achari Boti,1095,RAAST Payment,"Street 98, G-13"
+246,Faisal Malik,92 3028310039,Chicken Shinwari (Half),2400,Easy paisa,"Street 68, G-11"
+247,Ayesha Khalid,92 3041030459,Nuggets Deal (Chowmein+Nuggets+Fries+Crackers),1550,RAAST Payment,"Street 74, G-13"
+248,Arslan Khan,92 3097976235,American Chowmein,2295,bank payment ,nust exam haal gate 4
+249,Zainab Usman,92 3335500889,BBQ Grilled Batair,1595,RAAST Payment,"Street 67, G-13"
+250, Khan,92 3042497982,Dynamite Chicken,3295,RAAST Payment,"Street 90, G-14/4"
+251, Usman,92 3440550320,"Russian Salad, Soft Drink Tin",865,cash on delivery ,"Street 70, G-13"
+252,Shahrukh,92 333531668,"Alfredo Pasta, Soft Drink Tin",2665,bank payment,"Street 34, G-13"
+253,Umair,92 3055770092,Chinese Combo 1,2295,jazz cash ,"Street 63, G-13"
+254, Hassan,92 3419662816,Matka Biryani,695,cash ob delivery ,"Street 1, H-13"
+255,Adeel,92 3335495458,Chicken White Handi,2295,easy paisa ,star hostel 
+256,Mahnoor,92 3071567738,Zinger Burger,995,jazz cash ,"Street 10, H-13"
+257,Eman,92 3000597595,Afghani Pulao,1595,jazz cash ,"Street 36, G-13"
+258, Aslam,92 3335190049,Mutton Karahi (Half),2500,cash on delivery ,"Street 39, G-11"
+259,Khalid ,92 3003944549,Penne Pasta,1250,cash on delivery ,"Street 33, G-11"
+260,Mehmood,92 3427964637,BBQ Wings (4 pcs),995,easypaisa ,"Street 57, H-13"
+261, Iqbal,92 3168313235,Hot Garlic Chicken,2195,bank payment ,"Street 29, G-14/4"
+262,Naveed ,92 34281154000,Chicken Fried Rice,195,easy paisa ,"Street 34, G-13"
+263,Komal,92 3219641469,Cream of Mushroom Soup,795,jazz cash,umer block h13 
+264,l Hussain,92 3248580559,BBQ Grilled Batair,2400,jazz cash ,"Street 98, G-14/4"
+265,Sarfraz ,92 3473419032,Russian Salad,1595,cash on delivery ,"Street 80, G-11"
+267, Ahmed,92 3028359928,Mongolian Chicken,695,cash on delivery,"Street 83, G-11"
+266, Nawaz,92 3237427772,American Chowmein,2195,jazz cash ,"Street 20, G-14/4"
+267,Saba ,92 3213585808,Saltish Special Karahi (Half),2295,bank payment,"Street 66, G-14/4"
+268, Khalid,92 3312326240,Chicken Tikka Boti,2695,Easy paisa,"Street 67, H-13"
+269,Amna ,92 5507590957,Egg Fried Rice,1095,bank payment ,"Street 13, G-11"
+270,Kashan,92 323 7664620,Mutton Kunna,1250,RAAST Payment,"Street 51, G-14/4"
+271,ilyas khan,92 3365587685,chicken corn soup,1050,bank payment,"awan town, H-13"
+272, Arif,92 3343250991,Matka Biryani,695,easy pasia,"Street 22, G-11/1"
+273, Yousaf,92 3350772473,Chicken White Handi,2295,jazz cash ,"street 51, H-13"
+274,Rehan ,92 3038265045,Zinger Burger,995,jazz cash,nust skating rink
+275,Amir ,92 3105677901,Afghani Pulao,1595,easy paisa,"189 guest house , G-14/4"
+276,Hania Ali,92 3325956789,Mutton Karahi (Half),2500,bank payment ,"Street 144, G-13/4"
+277, Javed,92 3331484906,BBQ Wings (4 pcs),995,RAAST Payment,"Street 50, G-13/2 "
+278, Ali,92 3275109543,Penne Pasta,1250,easy paisa ,"canadian guest house , G-11"
+279, Anjum,92 3319740005,Hot Garlic Chicken,2195,jazz cash ,"club x, H-13"
+280,Zubair,92 3076810197,Chicken Fried Rice,1695,easy paisa ,"Street 88, G-11/3"
+281,Yousaf,92 3455266380,Cream of Mushroom Soup,795,bank payment ,"green line motel, G-14/4"
+282,Mudassar ,92 3335386266,Chicken Shinwari (Half),2400,jazz cash ,nust gate 2
+283, Zafar,92 3191723287,BBQ Grilled Batair,1595,jazz cash ,fatima hostel h 13
+284,Sehrish ,92 3087895856,Russian Salad,695,bank payment ,nust concordia 4(c4)
+284, Amir,92 3328577097,Mongolian Chicken,2195,easy paisa ,g 13/4 street 119
+286, Ahsan,92 3075463806,American Chowmein,2295,easy paisa,Golra mor 
+287,Adeel ,92 3023169663,Saltish Special Karahi (Half),2695,cash on delivery ,h 13 street 3
+288,Rizwan ,92 3175879066,Chicken Achari Boti,1095,bank payment ,G11/2 street 72
+289, Bhatti,92 3329626133,Chicken Tikka Boti,1095,RAAST Payment,"House #102, Street 17, G-10/3, Islamabad"
+290,Iqra ,92 3135479940,Egg Fried Rice,1250,easy paisa,"Flat #4B, G-10 Markaz"
+291, Rasheed,92 3005755336,Mutton Kunna,550,cash on delivery ,"House #87, Street 12, E-10/2, Islamabad"
+292, Ansari,92 3012818801,Chicken Manchurian,2195,cash on delivery,G11/1 street 10
+293,Haris ,92 3111592982,Fish Chilli Dry,3295,jazz cash ,"G-10 Markaz, Islamabad"
+294,Waqar ,92 3415652707,Platter Deal 1,4995,bank payment,"House #44, Street 8, E-10/3, Islamabad"
+295,Sehrish ,92 3432094225,Platter Deal 2,2390,Easy paisa,nust gate 1
+296, Qureshi,92 3334428047,Dynamite Chicken,3295,bank payment ,"Street 20, G-11/1"
+297, Amir,92 3160750508,Chicken Reshmi Kabab (4 pcs),1295,RAAST Payment,"Suite #21, 3rd Floor, Business Hub, E-11 Markaz, Islamabad"
+298,Nabeel ,92 3345211007,Mutton Biryani,5250,bank payment,"Noor Sky Lodge, G-13 "
+299, Kamal,92 3295014931,Chicken Corn Soup,850,easy pasia,"Flat #6C, Skyline Residency, E-10 Markaz"
+300,Daniyal ,92 3150580885,Soft Drink Tin Pack,170,jazz cash ,"2nd Floor, G-10 Business Center"
+301, Siddiqui,92 3329255011,Mint Margarita,295,jazz cash,"Office #2, E-10, Islamabad"
+302, Sheikh,92 3295457609,Club Sandwich,895,easy paisa,"Street 6, G-11/1"
+303,Aleena ,92 3115489703,Special Steak,2150,bank payment ,"House #39, Street 4, F-10/4, Islamabad"
+304,Noor ,92 3144078887,Moroccan Steak,1995,RAAST Payment,"House #77, Street 9, H-13, Islamabad"
+305, Fatima,92 3185760773,Rocket Steak,2150,easy paisa ,"Street 59, G-11/2"
+307, Aziz,92 3135356261,Chicken Hyderabadi,1350,jazz cash ,nust gate 10
+308,Taimoor ,92 3235890200,Hot & Sour Soup,800,easy paisa ,"Plot #5, Street 11, G-10/1, Islamabad"
+309, Zaman,92 3295985519,Vegetable Chowmein,1450,bank payment ,"Street 44, G-11"
+310,Haider ,92 3329412448,Saltish Special Boti,1400,easy paisa ,"House #73, Street 10, E-11/1, Islamabad"
+311, Arif,92 3336786780,Lahore Fried Fish (Full),1800,jazz cash ," Al-Madina Heights, G-10 Markaz"
+312,Rehan ,92 6892063280,Rohu Fish  Full,3650,easy paisa ,"Office #3, 2nd Floor, F-10/3, Islamabad"
+313,jamil,92 3335524467,Pomfret Fish Half,975,bank payment ,"Street 33, G-11"
+314,Naveed ,92 3344532713,Saltish Special Chowmein,2295,easy paisa,"Flat #2A, Zara Heights, H-13, Islamabad"
+315,Nimra Butt,92 3342157881,"Chicken Hari Mirchi (2), Finger Fish (2), Mix Vegetable (1)",2279,Cash on Delivery,"Silver Heights, F-10 Markaz, Islamabad"
+316,Zain Malik,92 3480942312,"Rocket Steak (2), BBQ Grilled Batair (2)",1760,Cash on Delivery,"3rd Floor, Business Hub, E-11 Markaz"
+317,Ahmed Raza,92 3474602798,"Chicken Shinwari Half (2), Cheese Balls (2), Chicken Hariyali Boti (2)",4704,Raast Payment,"Street 83, G-11"
+318,Amna Khan,92 3345498038,"Chicken Hari Mirch Handi (1), Hot & Sour Soup (2), Chicken Tikka Boti (1)",4224,Easy Paisa,"Capital Plaza, F-10/3, Islamabad"
+319,Nimra Ahmed,92 3365946614,"Mint Margarita (1), Hot Garlic Chicken (1), French Fries (2)",3731,Easy Paisa,"House #120, F-10/2, Islamabad"
+320,Ayesha Sheikh,92 3185210274,"Chicken Tikka Boti (2), Chicken Achari Boti (2), Kalwanji Naan (2), Chicken Malai Boti (2)",2703,Bank Payment,"House #88, Street 4, I-10/1, Islamabad"
+321,Saad Javed,92 3348018484,"American Chowmein (1), Chicken Manchurian (2), Chicken Hariyali Boti (1)",2183,Bank Payment,"Street 22, G-11/1"
+322,Ayesha Malik,92 3115743324,"Rocket Steak (1), Chicken Corn Soup (1), Mix Vegetable (2), Oyster Chicken (1)",2909,Jazz Cash,"Flat #5B, f 10 markaz"
+323,Zain ali,92 3485438501,"Mutton Kunna (1), Chicken Chowmein (1), Steam Rice (1), Lahore Fried Fish (2)",4421,Easy Paisa,"Umer Block, Abdullah Garden, H-13, Islamabad"
+324,arham,92 3120912091,"Chicken Tikka Leg (2), Adana Kabab Beef (1), Club Sandwich (1), Mutton Kunna (1)",1807,Easy Paisa,"House #63, Street 6, F-11/4, Islamabad"
+325,Ahmed Javed,92 3337742772,"French Fries (2), Chicken Reshmi Kabab (2), Moroccan Steak (1), Chicken Galafi Kabab (1)",3326,Cash on Delivery,"Street 88, G-11/3"
+326,Mariam Iqbal,92 3137697758,"Beef Afghani Seekh (1), Mutton Kunna (1)",3485,Easy Paisa,"House #91, Street 7, F-10/1, Islamabad"
+327,Mehwish Chaudhry,92 3449527951,"Rocket Steak (1), Mongolian Chicken (1), Hot Garlic Chicken (1), Cheese Balls (1)",5990,Jazz Cash,"Apartment #405, Sapphire Residency 2, H-13"
+328,Mariam Khan,92 3145113325,"Chicken Capital Curry (1), Chicken Hari Mirchi (2), Chicken Tikka Leg (2), Cream of Mushroom Soup (1)",5818,Easy Paisa,"Noor Sky Lodge, G-13"
+329,Amna Butt,92 3495625848,"Chicken Hari Mirch Handi (2), Garlic Naan (2)",4881,Cash on Delivery,"Suite #8, The Empire Boys, H-13, Islamabad"
+330,Omer Shah,92 3005330334,"Chicken Tikka Boti (2), Mutton Kunna (2), Rocket Steak (1)",5476,Easy Paisa,"Flat #6C,I-10 Markaz, Islamabad"
+331,Shah Sulman,92 3145245478,"Hot & Sour Soup (2), Zinger Burger (2), Moroccan Steak (1)",5588,Jazz Cash,"House #133, Street 10, I-10/2, Islamabad"
+332,Ali Khan,92 3391623507,"Garlic Naan (2), Adana Kabab Beef (2), Club Sandwich (2)",2531,Cash on Delivery,G 11/1 Canadian Guest House
+333,Saad Sheikh,92 3089373642,"Chicken Tikka Leg (2), Steam Rice (1), Chicken Chowmein (1)",3820,Jazz Cash,"House #63, Khyaban-e-Faiz, H-13, Islamabad"
+334,fatima Chaudhry,92 3305388713,"Beef Afghani Seekh (2), Garlic Naan (2), BBQ Wings (1), French Fries (1)",1522,Raast Payment,"Suite #15, Al-Safa Plaza, I-11/3, Islamabad"
+335,Ali Shah,92 3025083220,"Chicken Tikka Boti (1), Chicken Tikka PC Leg (2)",4931,Raast Payment," Paris City, H-13, Islamabad"
+336,Saad Malik,92 3458560470,"Saltish Special Chowmein (2), Mutton Karahi Half (1), BBQ Platter Mix Grill (2), Chicken Hari Mirchi (2)",5965,Jazz Cash,G 11/1 street 6
+337,Ayesha Butt,92 3345290597,"Dynamite Chicken (1), Chicken Achari Boti (1), Chicken Tikka PC Leg (1), Chicken Chowmein (2)",4317,Easy Paisa,"House #23, Street 5, E-10/1, Islamabad"
+338,Nimra Javed,92 3330692223,"Chicken Manchurian (1), Saltish Special Biryani (2), Zinger Burger (2), Steam Rice (2)",3587,Jazz Cash,"Street 11, F-10/2, Islamabad"
+339,Fatima Iqbal,92 3319585508,"BBQ Platter Mix Grill (2), Steam Rice (1), Finger Fish (2), Chicken Hari Mirch Handi (1)",5083,Raast Payment,"Office #10, 1st Floor, Land Mark III, H-13"
+340,Usman Butt,92 3009715882,"Beef Afghani Seekh (2), Chicken Madrasi Handi (1)",4556,Jazz Cash,"Street 12, G-11/1"
+341,Sara Malik,92 3431726649,"Chicken Achari Boti (1), BBQ Grilled Batair (1), Chicken Tikka PC Leg (1)",2756,Raast Payment,"House #101, Street 3, F-10/1, Islamabad"
+342,Mariam Ahmed,92 3155072371,"Chicken White Karahi Half (1), Mutton Kunna (2)",4689,Jazz Cash,"House #92, Street 11, I-11/4, Islamabad"
+343,Sara Ahmed,92 3165236700,"Oyster Chicken (1), Nuggets Deal (1)",5574,Raast Payment,"Office #12, 1st Floor,I 10/2"
+344,Usman Chaudhry,92 3359874312,"Mutton Kunna (2), Dynamite Chicken (2), Chicken Reshmi Kabab (2), Mix Vegetable (2)",3426,Raast Payment,"Street 5, G-11"
+345,Hassan Shah,92 3465212538,"BBQ Platter Mix Grill (2), Chicken Hyderabadi (1)",5044,Bank Payment,"Flat #3A, Landmark Heights, H-13, Islamabad"
+346,Nimra Sheikh,92 3090262010,"Chicken Hari Mirch Handi (2), Mutton Handi (1), Chicken Capital Curry (1)",3343,Raast Payment,"House #36, Street 7, F-11/1, Islamabad"
+347,Usman Iqbal,92 3000897791,"Chicken Madrasi Handi (2), Cream of Mushroom Soup (2), BBQ Grilled Batair (2)",3897,Cash on Delivery,"House #88, Street 2, H-13/1, Near NUST Gate 2"
+348,Mehwish Shah,92 3025971263,"Cheese Balls (2), BBQ Platter Mix Grill (1), Dynamite Chicken (2), Hot Garlic Chicken (2)",4265,Easy Paisa,"Street 39, G-11"
+349,Saad Raza,92 3109110063,"Rocket Steak (1), Chicken Manchurian (2), Saltish Special Chowmein (2), Chicken White Karahi Half (1)",2574,Bank Payment,"House #78, Street 12, H-13/2, Islamabad"
+350,Fatima Malik,92 3024999535,"Oyster Chicken (2), Moroccan Steak (1), Soft Drink Tin (2), Mint Margarita (2)",2421,Jazz Cash,"House #144, Street 8, G-11/4, Islamabad"
+351,Sana Khan,92 3425953523,"BBQ Platter Mix Grill (2), Chicken Galafi Kabab (2), Chicken Manchurian (1), Chicken Madrasi Handi (1)",4218,Easy Paisa,"Flat #4A, Prime Residency, F-10 Markaz, Islamabad"
+352,Omer Iqbal,92 3350917171,"Mint Margarita (1), Chicken Capital Curry (2), Chicken Galafi Kabab (1), Chicken Achari Boti (2)",3840,Jazz Cash,"Tech Mall, I-10/3, Islamabad"
+353,Hira Javed,92 3443154990,"Cream of Mushroom Soup (1), Chicken White Karahi Half (1), Mongolian Chicken (2)",1785,Cash on Delivery,"Street 80, G-11"
+354,Tariq Chaudhry,92 3472973618,"French Fries (1), Hot & Sour Soup (2)",5888,Jazz Cash,"Suite #10, 2nd Floor, Umer Plaza, H-13"
+355,Tippu,92 3421327096,"Mutton Handi (2), Chicken Tikka PC Leg (2), Chicken Chowmein (1)",4291,Jazz Cash,"House #76, Street 10, F-10/2, Islamabad"
+356,Fatima Shah,92 3150819363,"Finger Fish (2), Chicken Achari Boti (2), BBQ Platter Mix Grill (2)",5540,Easy Paisa,"House #52, Street 9, H-13,"
+357,Hira Malik,92 3015333863,"Club Sandwich (1), Hot & Sour Soup (2), Chicken Hariyali Boti (2), Chicken Tikka Boti (1)",4954,Raast Payment,"House #67, Street 8, I-9/1, Islamabad"
+358,Ayesha Khan,92 3445695591,"Beef Afghani Seekh (1), Chicken Tikka Leg (1), Cheese Balls (2)",2062,Easy Paisa,"Street 13, G-11"
+359,Tariq Sheikh,92 3315774944,"Chicken Shinwari Half (1), Oyster Chicken (1), Mint Margarita (1)",2706,Raast Payment,"Street 59, G-11/2"
+360,Hassan Sheikh,92 3178231668,"Kalwanji Naan (2), Steam Rice (2)",4292,Raast Payment,"House #17, Street 3, Hamza Block, H-13,"
+361,Sara Malik,92 3161711148,"Adana Kabab Beef (2), Chicken Capital Curry (1)",4670,Cash on Delivery,"Office #15, 2nd Floor, G-11/3, Islamabad"
+362,Fatima Shah,92 3255037588,"BBQ Wings (2), Mint Margarita (1)",3576,Cash on Delivery,"House #142, Street 11, I-9/2, Islamabad"
+363,Tariq Raza,92 3557600006,"Chicken Capital Curry (2), Chicken Hyderabadi (2), Mutton Karahi Half (1)",5949,Cash on Delivery,"2nd Floor, Capital Mall, F-10/3, Islamabad"
+364,Sana Javed,92 3325133671,"Egg Fried Rice (2), Rocket Steak (2)",2787,Jazz Cash,"House #57, Street 6, I-10/4, Islamabad"
+365,Sana Malik,92 3319890004,"Oyster Chicken (1), Hot & Sour Soup (1), Chicken Hariyali Boti (1)",2981,Cash on Delivery,"Canadian Guest House, G-11"
+366,Butt sahab ,92 3336156174,"Nuggets Deal (1), Zinger Burger (1), Chicken Tikka PC Leg (1), Lahore Fried Fish (1)",3241,Cash on Delivery,"House #102, Street 5, H-13/3, Islamabad"
+367,Usman Chaudhry,92 3007250345,"Zinger Burger (1), Chicken Tikka PC Leg (1)",3973,Bank Payment,"Executive Heights, F-11 Markaz, Islamabad"
+368,Ali Ahmed,92 3015332869,"Chicken Tikka PC Leg (1), Chicken Hariyali Boti (1), BBQ Wings (2), French Fries (1)",2074,Bank Payment,"Hamza Block, Khayaban-e-Faiz, H-13,"
+369,Ali Javed,92 3105901691,"Chicken Shinwari Half (2), Soft Drink Tin (2)",4976,Cash on Delivery,"Flat #302, Zara Heights, H-13 Markaz"
+370,Danish Ahmed,92 3334607068,"Chicken Hari Mirch Handi (1), Chicken Fried Rice (1), Mint Margarita (2)",3047,Jazz Cash,"Suite #21, F-10/3, Islamabad"
+371,Tariq Iqbal,92 3358073402,"Chicken Manchurian (2), Hot Garlic Chicken (2)",5454,Jazz Cash,"House #34, Street 5, H-11/1, Islamabad"
+372,Hassan Ahmed,92 3315193127,"Rocket Steak (2), Hot Garlic Chicken (1)",5829,Cash on Delivery,"Apartment #106, Sapphire Heights, G-13/2"
+373,Iqbal,92 3081508349,"Kalwanji Naan (2), Garlic Naan (2)",5546,Jazz Cash,"House #106, Street 7, I-11/2, Islamabad"
+374,Hassan Raza,92 3342400385,"Chicken Fried Rice (1), Chicken Mughlai Handi (2)",5952,Jazz Cash,"House #144, Street 8, G-11/4, Islamabad"
+375,Usman Iqbal,92 3089011654,"Chicken Hariyali Boti (1), Chicken Manchurian (2)",5569,Cash on Delivery,"Business Arcade, F-11/3, Islamabad"
+376,Ahmed Malik,92 3352284725,"Chicken Malai Boti (2), Chicken Tikka Boti (2)",4865,Raast Payment,"Office #8A, Al-Fajar Plaza, H-11/1, Islamabad"
+377,Sana Khan,92 3140909363,"Chicken Hyderabadi (2), Finger Fish (2)",4646,Easy Paisa,"Office #201, Saif Arcade, I-10/3, Islamabad"
+378,Usman Malik,92 3344933375,"Mongolian Chicken (1), Chicken Mughlai Handi (2)",5150,Easy Paisa,"Office #14, 2nd Floor, Tech View Plaza, I-9/3, Islamabad"
+379,Hamna Shah,92 3040165220,"Chicken Mughlai Handi (2), Chicken Achari Boti (2), Chicken Hyderabadi (2)",3553,Easy Paisa,"Flat #5B, Pak Heights, I-10 Markaz, Islamabad"
+380,Ahmed Sheikh,92 3319245104,"Finger Fish (2), Chicken Tikka Boti (1), Hot Garlic Chicken (1), Beef Afghani Seekh (2)",2776,Jazz Cash,"Flat #3A, Gul Plaza, I-9 Markaz, Islamabad"
+381,Mariam Raza,92 3497867378,"Chicken Achari Boti (2), Mutton Handi (2), Lahore Fried Fish (1)",5085,Bank Payment,"Street 1, H-13, Near NUST Gate 4, Islamabad"
+382,Zain Sheikh,92 3345073502,"Dynamite Chicken (2), Soft Drink Tin (1)",2488,Easy Paisa,"Flat #2B, Green Residency, I-11 Markaz"
+383,Danish Chaudhry,92 3045197299,"Mix Vegetable (1), French Fries (1), Chicken Tikka Leg (1), Chicken Hari Mirch Handi (1)",5879,Jazz Cash,"House #58, Street 5, F-10/4, Islamabad"
+384,Usman Sheikh,92 3369491778,"Chicken Galafi Kabab (1), Dynamite Chicken (1), Chicken Malai Boti (1), Chicken Hari Mirchi (1)",3505,Raast Payment,"Flat #204, Student Heights, H-11 Markaz"
+385,Mariam Raza,92 3106404154,"Finger Fish (2), Mint Margarita (2)",3866,Easy Paisa,"House #72, Street 4, I-10/4, Islamabad"
+386,taha,92 3159340074,"Chicken Tikka Leg (2), Mutton Kunna (1)",5495,Cash on Delivery,"House #42, Street 9, H-13/1, Islamabad"
+387,Saad Raza,92 3126408228,"Nuggets Deal (1), Moroccan Steak (1), Mint Margarita (1), Mutton Karahi Half (2)",3327,Jazz Cash,"Zara Heights Apartments, Flat #204, H-13"
+388,Zain Chaudhry,92 3005703649,"Chicken Malai Boti (2), Mint Margarita (1), Soft Drink Tin (1)",3734,Jazz Cash,"House #89, Street 12, F-11/2, Islamabad"
+389,Bilal Sheikh,92 3361521863,"Chicken Reshmi Kabab (2), Chicken Mughlai Handi (2), Chicken Fried Rice (1)",1982,Easy Paisa,"House #6, Khayaban-e-Faiz, H-13"
+390,Zain Raza,92 3130500104,"Garlic Naan (2), Nuggets Deal (2)",5731,Raast Payment,"Street 2, Zubair Shah Road, H-13, Islamabad"
+391,ayesha ,92 3215511615,"Mutton Handi (2), Egg Fried Rice (1)",4060,Bank Payment,"House #93, Street 5, I-9/4, Islamabad"
+392,noor,92 3238044826,"Moroccan Steak (1), Chicken Reshmi Kabab (2), Cheese Balls (1), Club Sandwich (2)",5383,Raast Payment,"House #128, Street 9, I-10/2, Islamabad"
+393,Roohi ,92 3086262330,"Chicken White Karahi Half (1), Chicken Capital Curry (2), Chicken Tikka Leg (1)",4046,Cash on Delivery,"House #78, Street 3, H-11/4, Islamabad"
+394,rohan ,92 3005508881,"Hot & Sour Soup (1), Chicken Malai Boti (2), Nuggets Deal (1)",5840,Raast Payment,"Landmark III Apartments, H-13, Islamabad"
+395,zimal,92 3329412448,burger deal 1,750,RAAST Payment,"Office #17, 3rd Floor,f11/2"
+396,tehreem,92 3356786780,chinese combo 2,1150,easy paisa ,"House #53, Street 7, I-10/1, Islamabad"
+397,wasif,92 333 5524467,biryani ,650,jazz cash ,"House #91, Street 10, H-11/2, Islamabad"
+398,Daniyal ,92 3406975282,platter deal 2,699,bank payment ,"House #29, Street 5, I-11/1, Islamabad"
+399,azan,92 3429352298,"saltish special karahi , naan 2 , raita  , soft drink ",3000,cash on delivery ," Street 3, G-13/4, Near NUST Gate 2, Islamabad"
+400,huma,92 3223831922,platter deal 1,1999,cash on delivery ,"House #59, Street 5, H-13/3, Islamabad"
